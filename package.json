@@ -1,0 +1,23 @@
+{
+	"name": "parcel-resolver-vue3-runtime",
+	"version": "2.0.0",
+	"description": "Parcel plugin that resolves vue-3 runtime for browsers in production environment",
+	"keywords": [
+		"parcel",
+		"parcel-resolver",
+		"parcel-plugin",
+		"vue"
+	],
+	"engines": {
+		"node": ">=12",
+		"parcel": ">=2.0.0"
+	},
+	"license": "MIT",
+	"author": "Nicolas Pulido",
+	"repository": "github:npulidom/parcel-resolver-vue3-runtime",
+	"homepage": "https://github.com/npulidom/parcel-resolver-vue3-runtime#readme",
+	"main": "lib/index.js",
+	"devDependencies": {
+		"parcel": "^2.0.0"
+	}
+}
