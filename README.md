@@ -19,7 +19,7 @@ Create a `.parcelrc` configuration file and add the plugin to resolvers like thi
 ```js
 {
     "extends": "@parcel/config-default",
-    "resolvers": ["parcel-resolver-ignore", "..."]
+    "resolvers": ["parcel-resolver-vue3-runtime", "..."]
 }
 ```
 
