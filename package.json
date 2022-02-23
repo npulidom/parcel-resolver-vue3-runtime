@@ -1,6 +1,6 @@
 {
 	"name": "parcel-resolver-vue3-runtime",
-	"version": "2.0.1",
+	"version": "2.0.2",
 	"description": "Parcel plugin that resolves vue-3 runtime for browsers in production environment",
 	"keywords": [
 		"parcel",
